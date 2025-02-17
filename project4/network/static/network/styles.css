@@ -1,0 +1,72 @@
+h1 {
+    margin: 40px;
+}
+
+#content {
+    margin: 30px;
+    height: 500px;
+    overflow: auto;
+}
+
+#write-post {
+    border-radius: 20px;
+    border: 1px solid #787878;
+    height: 230px;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#write-post textarea {
+    height: 10vh; 
+    width: 100%; 
+    margin: auto;
+    border-radius: 5px;
+    border: 1px solid #b5b5b5;
+    margin-top: 10px;
+}
+
+#write-post h3 {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#post {
+    margin: 10px;
+    border-radius: 20px;
+    border: 1px solid #787878;
+    padding: 20px 20px 20px 60px;
+}
+
+#messege {
+    margin-top: 10px;
+} 
+
+#time {
+    color: #a3a3a3;
+    margin: 0%;
+}
+
+#like {
+    display: block;
+    color: rgb(237, 77, 77);
+}
+
+svg {
+    float: left;
+}
+
+#like_number {
+    margin-left: 5px;
+    color: rgb(237, 77, 77);
+}
+
+.follow_situation{
+    margin-left: 90px;
+    display: block;
+}
+
+.pagination {
+    margin-left: 50px;
+}
+
